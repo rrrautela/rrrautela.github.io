@@ -247,7 +247,7 @@ const DSAStats = () => {
               <span className="text-purple-500 text-2xl">/&gt;</span>
             </h2>
             <p className="text-gray-300 leading-relaxed text-lg">
-              Building real problem solving skills in a shortcut generation.
+              Earning intuition in a generation of shortcuts.
             </p>
           </div>
 
@@ -275,11 +275,11 @@ const DSAStats = () => {
           </div>
 
           <div className="flex flex-wrap gap-2 pt-2">
-            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Divide & Conquer</span>
-            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Backtracking</span>
-            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Dynamic Programming</span>
-            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Graph Algorithms</span>
-            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Bit Manipulation</span>
+            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Recursive Optimizations</span>
+            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Dynamic Programming & Memoization Architectures</span>
+            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">State-Space Exploration</span>
+            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Path finding and Topology</span>
+            {/* <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Bit Manipulation</span> */}
           </div>
         </div>
 
