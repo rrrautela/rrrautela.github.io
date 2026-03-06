@@ -275,11 +275,11 @@ const DSAStats = () => {
           </div>
 
           <div className="flex flex-wrap gap-2 pt-2">
+            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Amortized Complexity Analysis </span> */
             <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Recursive Optimizations</span>
             <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Dynamic Programming & Memoization Architectures</span>
             <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">State-Space Exploration</span>
             <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Path finding and Topology</span>
-            {/* <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Bit Manipulation</span> */}
           </div>
         </div>
 
