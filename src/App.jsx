@@ -275,7 +275,7 @@ const DSAStats = () => {
           </div>
 
           <div className="flex flex-wrap gap-2 pt-2">
-            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Amortized Complexity Analysis </span> */
+            <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Amortized Complexity Analysis </span>
             <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Recursive Optimizations</span>
             <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">Dynamic Programming & Memoization Architectures</span>
             <span className="text-xs font-mono text-gray-400 bg-white/5 px-3 py-1 rounded-full border border-white/5">State-Space Exploration</span>
@@ -331,7 +331,7 @@ export default function App() {
               <span className="text-gradient">Rautela</span>
             </h1>
             <p className="text-xl text-gray-400 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-              Natural intelligence in an artificially intelligent world.
+              Natural Intelligence in an Artificially Intelligent World.
             </p>
           </motion.div>
 
