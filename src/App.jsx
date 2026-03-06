@@ -106,7 +106,7 @@ const SocialLink = ({ href, icon }) => (
 
 const TerminalHero = () => {
   const [text, setText] = useState('');
-  const fullText = "> If you can’t explain it to a six-year-old, you don’t understand it yourself. \n \t \t";
+  const fullText = "> The computer is incredibly fast, accurate, and stupid. Man is incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination. \n \t \t";
 
   useEffect(() => {
     let i = 0;
