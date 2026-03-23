@@ -265,7 +265,7 @@ const DSAStats = () => {
             <div className="bg-black/30 p-4 rounded-xl border border-white/5 hover:border-purple-500/30 transition-colors">
               <div className="text-purple-400 text-sm font-mono mb-1">Contest Rating</div>
               <div className="text-3xl font-bold text-white">{stats.contestRating}</div>
-              <div className="text-xs text-gray-500 mt-1">Next Stop => Knight (1850+) </div>
+              <div className="text-xs text-gray-500 mt-1">Knight </div>
             </div>
             <div className="bg-black/30 p-4 rounded-xl border border-white/5 hover:border-purple-500/30 transition-colors">
               <div className="text-yellow-400 text-sm font-mono mb-1">Contest Ranking</div>
